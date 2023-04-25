@@ -1,7 +1,6 @@
 <h2 align="center">Привет, меня зовут Михаил 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h4 align="center">Я начинающий frontend-разработчик из Санкт-Петербурга</h4>
-<br>
 <div align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-right: 10px;">
