@@ -33,7 +33,7 @@
             🤯 Осваивать новые фреймворки
         </ul> 
         <br>
-        <p style="font-weight: 200; font-size: 16px;">У меня есть небольшое <a href="https://wskymike.github.io/my-portfolio-react/" target="_blank"><b>портфолио</b></a> на реакте. Не Хочешь взглянуть? 😊
+        <p style="font-weight: 200; font-size: 16px;">У меня есть небольшое <a href="https://github.com/WskyMike/my-portfolio-react" target="_blank"><b>портфолио</b></a> на реакте. Не Хочешь взглянуть? 😊
         </p>
 </p>
         <br>
