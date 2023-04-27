@@ -42,15 +42,15 @@
 ### Контакты:
 <div>
     <a href="https://t.me/wskymike">
-    <img src="https://img.icons8.com/3d-fluency/94/null/telegram.png">
+    <img src="https://img.icons8.com/3d-fluency/94/null/telegram.png" style="width: 50px";>
     </a>
     <a href="https://wa.me/79992323200">
-    <img src="https://img.icons8.com/3d-fluency/94/null/whatsapp.png">
+    <img src="https://img.icons8.com/3d-fluency/94/null/whatsapp.png" style="width: 50px">
     </a>
     <a href="https://instagram.com/mikhail.ivanovich">
-    <img src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png">
+    <img src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" style="width: 50px">
     </a>   
     <a href="https://vk.com/mike.wsky">
-    <img src="https://img.icons8.com/3d-fluency/94/null/vk-circled.png">
+    <img src="https://img.icons8.com/3d-fluency/94/null/vk-circled.png" style="width: 50px">
     </a>   
 </div>
