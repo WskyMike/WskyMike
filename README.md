@@ -6,17 +6,12 @@
 <br><br>
 
 У меня есть небольшое <a href="https://github.com/WskyMike/my-portfolio-react" target="_blank">портфолио</a> на реакте. Не хочешь взглянуть? 😊
-<br><br>
 
 ### Я стремлюсь:
  💻 Писать чистый и понятный код
- <br><br>
  🛠 Работать с опытными коллегами и перенимать опыт
- <br><br>
  📈 Наращивать свою производительность
- <br><br>
  🤯 Осваивать новые фреймворки
-<br><br>
 
 ### Технологии, которые я освоил:
 
@@ -29,7 +24,6 @@
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-<br><br>
 
 ### Статистика:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=WskyMike&hide=stars,issues,contribs&theme=github_dark_dimmed&show_icons=true)](https://github.com/WskyMike/github-readme-stats)
@@ -37,7 +31,6 @@
 [![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WskyMike&layout=compact&show_icons=true&theme=github_dark_dimmed)](https://github.com/WskyMike/github-readme-stats)
 
 [![Codewars Badge](https://www.codewars.com/users/WskyMike/badges/small)](https://www.codewars.com/users/WskyMike)
-<br><br>
 
 ### Контакты:
 <div>
