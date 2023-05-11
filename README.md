@@ -24,6 +24,7 @@
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Статистика:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=WskyMike&hide=stars,issues,contribs&theme=github_dark_dimmed&show_icons=true)](https://github.com/WskyMike/github-readme-stats)
